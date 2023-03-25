@@ -39,6 +39,8 @@ Download the theme file and move it into your [BetterDiscord](https://betterdisc
 
 > [ClearVision_v6.theme.css](https://clearvision.gitlab.io/download/v6/latest)
 
+Vencord link: https://raw.githubusercontent.com/IgLocoXD/ClearVision-v6-vencord-/master/ClearVision_v6.theme.css
+
 ## Building from source
 
 In order build the theme from source, you can simply run `npm install` to install all missing dependencies, and `npm run build` to compile the theme into the `/public` folder.
